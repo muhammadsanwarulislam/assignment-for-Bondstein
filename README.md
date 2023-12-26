@@ -10,4 +10,4 @@ Follow the steps mentioned below to install and run the project.
 4. Run the command `php -S localhost:8000` to check api functionality
 5. Test the API endpoint from postman
 
-![](https://github.com/muhammadsanwarulislam/assignment-for-Bondstein/edit/main/task1/api%20test.jpeg)
+![](https://github.com/muhammadsanwarulislam/assignment-for-Bondstein/blob/main/task1/api%20test.jpeg)
